@@ -43,7 +43,17 @@ The project demonstrates an end-to-end data analysis workflow using Python, SQL,
 - Which categories receive the lowest customer ratings?
 
 ## Key Findings
-Business findings will be added here after reviewing the final Python, SQL, and Power BI results.
+
+- **Product Preferences:** Analyzed the most frequently purchased items to understand customer preferences and identify popular products.
+- **Category Performance:** Compared average purchase amounts and customer ratings across product categories to understand differences in spending and satisfaction.
+- **Customer Segmentation:** Examined purchasing patterns across age groups and genders to understand differences in customer behavior.
+- **Subscription Behavior:** Compared subscribers and non-subscribers to investigate differences in purchasing patterns.
+- **Discounts and Payment Methods:** Analyzed discount usage, purchase amounts, and payment preferences to understand customer purchasing decisions.
+- **Customer Satisfaction:** Evaluated product category ratings to identify areas where customer experience could be improved.
+
+### Business Insights
+
+The analysis provides a structured view of customer purchasing behavior and preferences. These insights can help businesses make more informed decisions about product selection, customer segmentation, marketing strategies, and customer satisfaction.
 
 ## Conclusion
 This project demonstrates practical skills in data preparation, exploratory analysis, SQL querying, and dashboard development to investigate customer purchasing behavior.
